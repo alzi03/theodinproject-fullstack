@@ -29,7 +29,7 @@ body{
 
 .entry{
   display:flex;
-  width:500px;
+  width:600px;
   flex-direction: column;
   align-items: center;
   border:1px solid;
